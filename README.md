@@ -3,7 +3,7 @@
 ## Project Overview
 Built an end-to-end data pipeline to analyze regional market performance. Processed raw datasets using SQL to extract geographic and temporal revenue metrics, and deployed an interactive Tableau dashboard for visual data interpretation.
 
-**🔗 [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/authoring/InteractiveSalesDashboard_17869955050400/Dashboard1#1)**
+**🔗 [Click Here to View the Interactive Tableau Dashboard](https://public.tableau.com/authoring/InteractiveSalesDashboard_17869955050400/Dashboard1#2)**
 
 ## 📈 Dashboard Preview
 ![Dashboard Screenshot](dashboard_pic.jpg)
